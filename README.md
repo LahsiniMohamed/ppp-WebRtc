@@ -1,6 +1,7 @@
-# Note : 
+# Note
 To run this code u need to have a signaling server with socket.io  
-the file `server.js` contains the source code of the signaling server
+the file `server.js` contains the source code of the signaling server  
+to create your signaling server just initiate your repo with npm and install socket.io , express js. after that add the `server.js` as your index file
 
 # Getting Started with Create React App
 
